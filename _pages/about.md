@@ -27,6 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Masaki Takeuchi is an Ph.D. Student with the Graduate School of Engineering Science at the University of Osaka, running Pattern Measurement Group (PI: Prof. Daisuke Iwai). His research interests include augmented reality, projection mapping, projector-camera systems, human-computer interaction, and Shitsukan science.
+
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
