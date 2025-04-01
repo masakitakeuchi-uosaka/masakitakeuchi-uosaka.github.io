@@ -22,6 +22,6 @@ announcements:
 
 ---
 
-Masaki Takeuchi is an Ph.D. Student with the Graduate School of Engineering Science at the University of Osaka, running Pattern Measurement Group (PI: Prof. Daisuke Iwai). His research interests include augmented reality, projection mapping, projector-camera systems, human-computer interaction, and Shitsukan science.
+Masaki Takeuchi is an Ph.D. Student with the Graduate School of Engineering Science at the University of Osaka, running XR Group (PI: Prof. Daisuke Iwai). His research interests include augmented reality, projection mapping, projector-camera systems, human-computer interaction, and Shitsukan science.
 
 
