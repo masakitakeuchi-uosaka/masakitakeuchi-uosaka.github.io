@@ -55,10 +55,9 @@
 - title: Scholarships
   type: time_table
   contents:
-    - title: Vulcanus in Europe
-      institution: EU-Japan Centre for Industrial Cooperation
-      year: 2021.4 - 2022.3.
-
     - title: JST BOOST
       institution: The University of Osaka, Japan Science and Technology Agency
       year: 2025.4. - 2028.3.
+    - title: Vulcanus in Europe
+      institution: EU-Japan Centre for Industrial Cooperation
+      year: 2021.4 - 2022.3.
