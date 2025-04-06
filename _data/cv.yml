@@ -3,7 +3,13 @@
   contents:
     - name: Full Name
       value: Masaki Takeuchi
-
+    - name: Position
+      value: PhD Student
+    - name: Affiliation
+      value: Graduate School of Engineering Science, the University of Osaka
+    - name: Email
+      value: takeuchi.masaki.fpq[at]ecs.osaka-u.ac.jp
+      
 - title: Education
   type: time_table
   contents:
