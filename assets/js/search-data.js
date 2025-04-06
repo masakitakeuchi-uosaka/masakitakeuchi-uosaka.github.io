@@ -401,9 +401,9 @@ ninja.data = [{
             },},{id: "news-released-my-website",
           title: 'Released my website.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-projection-mapping-under-environmental-lighting",
+          title: 'Projection Mapping under Environmental Lighting',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
