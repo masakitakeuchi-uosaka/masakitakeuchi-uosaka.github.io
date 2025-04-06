@@ -65,11 +65,16 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "第40回電気通信普及財団賞(テレコムシステム技術賞)奨励賞",
+      "date": "2025-03-28",
+      "awarder": "電気通信普及財団",
+      "url": "https://www.taf.or.jp/award/telesys/69802794267d7a07d11d0e20250317130933.html"
+    },
+    {
+      "title": "IEEE Kansai Section Student Paper Award",
+      "date": "2025-03-24",
+      "awarder": "IEEE Kansai Section",
+      "url": "https://www.ieee-jp.org/section/kansai/award/student.html"
     }
   ],
   "certificates": [
