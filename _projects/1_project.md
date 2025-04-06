@@ -2,7 +2,7 @@
 layout: page
 title: Projection Mapping under Environmental Lighting
 description: 
-img: assets/img/teaser_2024TVCG.pdf
+img: assets/img/teaser_2024TVCG.png
 importance: 1
 category: work
 related_publications: true
