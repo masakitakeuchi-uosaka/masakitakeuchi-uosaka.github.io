@@ -9,13 +9,13 @@
   contents:
     - title: PhD
       institution: The University of Osaka, Japan
-      year: 2025-
+      year: 2025 -
     - title: Master
       institution: The University of Osaka, Japan
-      year: 2022-2024
+      year: 2022 - 2024
   - title: Bachelor
       institution: The University of Osaka, Japan
-      year: 2017-2021
+      year: 2017 - 2021
 
 - title: Experience
   type: time_table
