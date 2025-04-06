@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>F320</p>
     <p>1-3 Machikaneyama</p>
-    <p>Toyonaka, Osaka 560-8531</p>
+    <p>Toyonaka, Osaka 560-8531 Japan</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
