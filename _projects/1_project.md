@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projection Mapping under Environmental Lighting
-description: 
+description: IEEE TVCG 2024, IEEE VR 2024
 img: assets/img/teaser_2024TVCG_room_only.png
 importance: 1
 category: work
