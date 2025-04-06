@@ -8,21 +8,14 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      institution: The University of Osaka, Japan
+      year: 2025-
+    - title: Master
+      institution: The University of Osaka, Japan
+      year: 2022-2024
+  - title: Bachelor
+      institution: The University of Osaka, Japan
+      year: 2017-2021
 
 - title: Experience
   type: time_table
