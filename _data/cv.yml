@@ -39,18 +39,18 @@
 - title: Awards
   type: time_table
   contents:
-    -title: 第40回 電気通信普及財団賞（テレコムシステム技術賞）奨励賞
-     institution: 電気通信普及財団
-     year: 2025
-    -title: 第21回 IEEE 関西支部 学生研究奨励賞
-     institution: IEEE 関西支部
-     year: 2025
-    -title: Best Paper Award
-     institution: IEEE VR 2024
-     year: 2024
-    -title: 学術奨励賞賞
-     institution: 日本バーチャルリアリティ学会
-     year: 2023
+    - title: 第40回 電気通信普及財団賞（テレコムシステム技術賞）奨励賞
+      institution: 電気通信普及財団
+      year: 2025
+    - title: 第21回 IEEE 関西支部 学生研究奨励賞
+      institution: IEEE 関西支部
+      year: 2025
+    - title: Best Paper Award
+      institution: IEEE VR 2024
+      year: 2024
+    - title: 学術奨励賞賞
+      institution: 日本バーチャルリアリティ学会
+      year: 2023
 
 - title: Scholarships
   type: time_table
