@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://masakitakeuchi-uosaka.github.io/sitemap.xml
+Sitemap: https://masaki-takeuchi-info.github.io//sitemap.xml
