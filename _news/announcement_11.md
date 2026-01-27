@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Served as a conference student staff at [IEEE AIxVR 2026](https://aivr.science.uu.nl/2026/index.html).
+Served as conference staff (student assistant) at [IEEE AIxVR 2026](https://aivr.science.uu.nl/2026/index.html).
