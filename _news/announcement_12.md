@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave a Researchspark presentation at [CVIM(コンピュータビジョンとイメージメディア研究発表会)](https://cvim.ipsj.or.jp/index.php?id=244p).
+Gave a Researchspark presentation at [CVIM(第244回コンピュータビジョンとイメージメディア研究発表会)](https://cvim.ipsj.or.jp/index.php?id=244p).
