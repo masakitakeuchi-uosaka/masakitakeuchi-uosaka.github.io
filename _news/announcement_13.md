@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-01-08 00:00:00-0400
+date: 2026-02-18 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Gave an oral presentation at [大阪大学大学院情報科学研究科 第224回ランチセミナー](https://x.com/osaka_jyouhoujp/status/2009166663791640664?s=20).
+Gave an oral pitch at [大阪大学学際融合を推進し社会実装を担う次世代挑戦的研究者育成プロジェクト 北米研修](https://itgp.osaka-u.ac.jp/jisedai/).
