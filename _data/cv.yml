@@ -67,6 +67,8 @@
 - title: Service (Review) 
   type: map 
   contents: 
+    - name: Journal
+      value: 日本バーチャルリアリティ学会論文誌 (2026) 
     - name: Conference Paper 
       value: IEEE ISMAR (2025), IEEE VR (2026) 
       
