@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two co-authored posters were accepted and will be presented at [AHs 2026](https://augmented-humans.org/).
+Two co-author posters are accepted and will be presented at [AHs 2026](https://augmented-humans.org/).
