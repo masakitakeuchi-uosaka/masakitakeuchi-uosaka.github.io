@@ -398,10 +398,12 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-released-my-website",
-          title: 'Released my website.',
+            },},{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
-          section: "News",},{id: "news-gave-a-poster-presentation-at-inaugural-texture-forum-第1回質感フォーラム",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "news-gave-a-poster-presentation-at-inaugural-texture-forum-第1回質感フォーラム",
           title: 'Gave a poster presentation at Inaugural Texture Forum (第1回質感フォーラム).',
           description: "",
           section: "News",},{id: "news-gave-an-oral-presentation-at-vision-society-of-japan-2025-summer-meeting-日本視覚学会2025年夏季大会",
