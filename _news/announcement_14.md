@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Gave two posters presentation (co-author) at [AHs 2026](https://augmented-humans.org/).
+Gave two poster presentations (co-author) at [AHs 2026](https://augmented-humans.org/).
