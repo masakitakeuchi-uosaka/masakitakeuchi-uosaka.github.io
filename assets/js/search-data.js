@@ -437,7 +437,7 @@ ninja.data = [{
           section: "News",},{id: "news-gave-two-poster-presentations-co-author-at-ahs-2026",
           title: 'Gave two poster presentations (co-author) at AHs 2026.',
           description: "",
-          section: "News",},{id: "news-two-papers-one-as-co-first-author-and-one-as-co-author-are-accepted-as-ieee-tvcg-paper-and-will-be-presented-at-ieee-vr-2026",
+          section: "News",},{id: "news-two-papers-one-as-co-first-author-and-one-as-co-author-are-accepted-as-ieee-tvcg-paper-and-presented-at-ieee-vr-2026",
           title: 'Two papers (one as co-first author and one as co-author) are accepted as...',
           description: "",
           section: "News",},{id: "projects-projection-mapping-under-environmental-lighting",
