@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers (one as co-first author and one as co-author) are accepted as IEEE TVCG paper and will be presented at [IEEE VR 2026](https://ieeevr.org/2026/).
+Two papers (one as co-first author and one as co-author) are accepted as IEEE TVCG paper and presented at [IEEE VR 2026](https://ieeevr.org/2026/).
