@@ -41,6 +41,12 @@
 - title: Awards
   type: time_table
   contents:
+    - title: Best Paper Award
+      institution: IEEE VR 2026 (The 33rd IEEE Conference on Virtual Reality and 3D User Interfaces)
+      year: 2026
+    - title: Best Paper Award (Honorable Mention)
+      institution: IEEE VR 2026 (The 33rd IEEE Conference on Virtual Reality and 3D User Interfaces)
+      year: 2026
     - title: 第40回 電気通信普及財団賞（テレコムシステム技術賞）奨励賞
       institution: 電気通信普及財団
       year: 2025
