@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-03-18 00:00:00-0400
+date: 2026-03-12 00:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Two co-authored posters were accepted and will be presented at [AHs 2026](https://augmented-humans.org/).
+Gave an oral presentation at [ASPIRE Workshop 2026](https://koikelab-team.github.io/aspire-workshop2026-page/).
