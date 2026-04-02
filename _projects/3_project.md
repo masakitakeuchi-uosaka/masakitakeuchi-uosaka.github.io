@@ -8,7 +8,7 @@ category: work
 related_publications: true
 ---
 
-
+This project is described in our paper {% cite okamoto_takeuchi_TVCG_2026 %}.
 
 - [DOI](https://doi.org/10.1109/TVCG.2026.3679111)
 - [Video](https://youtu.be/DEDGYcM5H84?si=mInyOQW1nJMM63aj)
