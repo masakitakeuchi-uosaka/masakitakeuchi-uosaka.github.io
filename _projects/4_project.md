@@ -5,7 +5,7 @@ description: IEEE TVCG 2026, IEEE VR 2026
 img: assets/img/fujimura.png
 importance: 1
 category: work
-related_publications: false
+related_publications: true
 ---
 
 This project is described in our paper {% cite fujimura_TVCG_2026 %}.
