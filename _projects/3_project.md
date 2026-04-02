@@ -5,7 +5,7 @@ description: IEEE TVCG 2026, IEEE VR 2026
 img: assets/img/IMG_0042.JPG
 importance: 1
 category: work
-related_publications: false
+related_publications: true
 ---
 
 
