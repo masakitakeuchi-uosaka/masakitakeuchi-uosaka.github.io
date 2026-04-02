@@ -9,7 +9,6 @@ profile:
   image: masaki_takeuchi.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>F320</p>
     <p>1-3 Machikaneyama</p>
     <p>Toyonaka, Osaka 5608531 Japan</p>
 
