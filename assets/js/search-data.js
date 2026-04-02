@@ -453,9 +453,9 @@ ninja.data = [{
           description: "Frontiers in Virtual Reality 2025",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-projection-mapping-under-environmental-lighting",
-          title: 'Projection Mapping under Environmental Lighting',
-          description: "IEEE TVCG 2024, IEEE VR 2024",
+            },},{id: "projects-shadowless-projection-mapping-for-tabletop-workspaces",
+          title: 'Shadowless Projection Mapping for Tabletop Workspaces',
+          description: "IEEE TVCG 2026, IEEE VR 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{
