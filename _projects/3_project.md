@@ -8,6 +8,12 @@ category: work
 related_publications: false
 ---
 
+<div class="mt-3">
+  <a href="https://doi.org/10.xxxx/xxxxxx" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">DOI</a>
+  <a href="https://ieeexplore.ieee.org/..." class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">IEEE Xplore</a>
+  <a href="https://www.youtube.com/..." class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Video</a>
+</div>
+
 Projection mapping (PM) is a technique that enhances the appearance of real-world surfaces using projected images, enabling multiple people to view augmentations simultaneously, thereby facilitating communication and collaboration. However, PM typically requires a dark environment to achieve high-quality projections, limiting its practicality. In this paper, we overcome this limitation by replacing conventional room lighting with heterogeneous projectors. These projectors replicate environmental lighting by selectively illuminating the scene, excluding the projection target. Our contributions include a distributed projector optimization framework designed to effectively replicate environmental lighting and the incorporation of a large-aperture projector, in addition to standard projectors, to reduce high-luminance emitted rays and hard shadows-undesirable factors for collaborative tasks in PM. We conducted a series of quantitative and qualitative experiments, including user studies, to validate our approach. Our findings demonstrate t hat our projector-based lighting system significantly enhancesthe contrast and realism of PM results even under e nvironmental lighting compared to typical lights. Furthermore, our method facilitates a substantial shift in the perceived color mode from the undesirable aperture-color mode, where observers perceive the projected object as self-luminous, to the surface-color mode in PM.
 
 <div class="row">
