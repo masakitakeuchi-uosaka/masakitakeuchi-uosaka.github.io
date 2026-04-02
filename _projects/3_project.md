@@ -28,3 +28,10 @@ Projection mapping (PM) is a technique that enhances the appearance of real-worl
 <div class="caption">
     The proposed projection mapping system mitigates the reduction in contrast under environmental lighting. The left image provides an overall view of the texture projection in a well-lit room using the proposed technique. The crack pattern texture is projected onto the white statue located at the center of the desk. The images on the right show enlarged views of the statue without (left) and with (right) the texture projection. These images were captured in three different lighting conditions: a dark room, where projection mapping is typically conducted; under typical room lighting with LED lights; and under the proposed environmental lighting using projectors. The results demonstrate that our technique reproduces typical room lighting using multiple projectors and enhances the contrast of the projected result on the target surface.
 </div>
+
+
+<div class="mt-3">
+  <a href="https://doi.org/10.xxxx/xxxxxx" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">DOI</a>
+  <a href="https://ieeexplore.ieee.org/..." class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">IEEE Xplore</a>
+  <a href="https://www.youtube.com/..." class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Video</a>
+</div>
