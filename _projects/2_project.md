@@ -2,8 +2,8 @@
 layout: page
 title: Luminosity Thresholds in Projection Mapping
 description: Frontiers in Virtual Reality 2025
-img: assets/img/teaser_2025frontiers.jpg
-importance: 1
+img: assets/img/画像1_takeuchi.png
+importance: 2
 category: work
 related_publications: false
 ---
