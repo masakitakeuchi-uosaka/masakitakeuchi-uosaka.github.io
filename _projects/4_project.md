@@ -8,7 +8,7 @@ category: work
 related_publications: false
 ---
 
-
+This project is described in our paper {% cite fujimura_TVCG_2026 %}.
 
 - [DOI](https://doi.org/10.1109/TVCG.2026.3679878)
 - [Video](https://youtu.be/lILZRiP7yps?si=fW2hVs0HxDJuWacF)
