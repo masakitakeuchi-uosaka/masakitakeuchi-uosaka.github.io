@@ -463,11 +463,6 @@ ninja.data = [{
           description: "IEEE TVCG 2026, IEEE VR 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-test-test",
-          title: 'test test',
-          description: "test frontiers",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/test_project/";
             },},{
         id: 'social-email',
         title: 'email',
