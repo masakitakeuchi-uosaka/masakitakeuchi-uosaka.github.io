@@ -463,6 +463,11 @@ ninja.data = [{
           description: "IEEE TVCG 2026, IEEE VR 2026",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
+            },},{id: "projects-high-contrast-projection-mapping-under-light-field-illumination",
+          title: 'High-Contrast Projection Mapping under Light Field Illumination',
+          description: "IEEE TVCG 2026, IEEE VR 2026",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/test_project/";
             },},{
         id: 'social-email',
         title: 'email',
