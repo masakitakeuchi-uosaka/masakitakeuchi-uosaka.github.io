@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at The University of Osaka | Visiting Doctoral Researcher at University of Oxford
+subtitle: PhD Student. The University of Osaka | Visiting Doctoral Researcher. University of Oxford
 
 profile:
   align: right
   image: masaki_takeuchi.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>1-3 Machikaneyama</p>
-    <p>Toyonaka, Osaka 5608531 Japan</p>
+    <p>Life and Mind Building, South Parks Road</p>
+    <p>Oxford, OX1 3EL　UK</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
