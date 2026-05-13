@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Appointed as a Visiting Doctoral Researcher at the University of Oxford.
+Joined the University of Oxford as a Visiting Doctoral Researcher at the Perception Lab.
