@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student. The University of Osaka
+subtitle: PhD Student at The University of Osaka | Visiting Doctoral Researcher at University of Oxford
 
 profile:
   align: right
