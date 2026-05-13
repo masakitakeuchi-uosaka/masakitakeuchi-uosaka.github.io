@@ -9,8 +9,9 @@ profile:
   image: masaki_takeuchi.JPEG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Life and Mind Building, South Parks Road</p>
-    <p>Oxford, OX1 3EL　UK</p>
+    <p>Life and Mind Building,</p>
+    <p>South Parks Road</p>
+    <p>Oxford, OX1 3EL, UK</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
