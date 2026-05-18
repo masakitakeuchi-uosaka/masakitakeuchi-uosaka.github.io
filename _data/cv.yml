@@ -79,7 +79,7 @@
     - name: Journal
       value: IEEE TVCG (2026), 日本バーチャルリアリティ学会論文誌 (2025, 2026) 
     - name: Conference Paper 
-      value: IEEE ISMAR (2025), IEEE VR (2026) 
+      value: IEEE ISMAR (2025, 2026), IEEE VR (2026) 
       
 - title: Service (Student Volunteer) 
   type: map 
