@@ -10,7 +10,7 @@
     - name: Email
       value: takeuchi.masaki.fpq[at]ecs.osaka-u.ac.jp
     - name: Membership
-      value: IEEE, SPIE, Vision Society of Japan
+      value: IEEE, SPIE
       
 - title: Education
   type: time_table
