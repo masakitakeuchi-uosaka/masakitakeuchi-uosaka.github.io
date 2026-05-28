@@ -27,6 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Masaki Takeuchi is a Ph.D. Student with the Graduate School of Engineering Science at the University of Osaka and a member of the XR Group (PI: Prof. Daisuke Iwai). His research interests include augmented reality, projection mapping, projector-camera systems, human-computer interaction, and Shitsukan science.
+
+
+Masaki Takeuchi is a Ph.D. Student with the Graduate School of Engineering Science at the University of Osaka and a member of the XR Group (PI: Daisuke Iwai). He is currently also a Visiting Doctoral Researcher at the University of Oxford, working with Prof. Hannah Smithson. His research interests include augmented reality, projection mapping, projector-camera systems, human-computer interaction, and Shitsukan science.
+
 
 
