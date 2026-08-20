@@ -7,5 +7,5 @@ inline: true
 related_posts: false
 ---
 
-Attended [International Colour Vision Society conference](https://www.icvs2026.org/).
+Attended [The International Colour Vision Society conference](https://www.icvs2026.org/).
 
